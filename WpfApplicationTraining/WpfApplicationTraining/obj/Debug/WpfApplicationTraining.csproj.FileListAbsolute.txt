@@ -1,0 +1,14 @@
+D:\HobbyApp\WpfApplicationTraining\WpfApplicationTraining\bin\Debug\WpfApplicationTraining.exe.config
+D:\HobbyApp\WpfApplicationTraining\WpfApplicationTraining\bin\Debug\WpfApplicationTraining.exe
+D:\HobbyApp\WpfApplicationTraining\WpfApplicationTraining\bin\Debug\WpfApplicationTraining.pdb
+D:\HobbyApp\WpfApplicationTraining\WpfApplicationTraining\obj\Debug\WpfApplicationTraining.csprojResolveAssemblyReference.cache
+D:\HobbyApp\WpfApplicationTraining\WpfApplicationTraining\obj\Debug\MainWindow.g.cs
+D:\HobbyApp\WpfApplicationTraining\WpfApplicationTraining\obj\Debug\App.g.cs
+D:\HobbyApp\WpfApplicationTraining\WpfApplicationTraining\obj\Debug\WpfApplicationTraining_MarkupCompile.cache
+D:\HobbyApp\WpfApplicationTraining\WpfApplicationTraining\obj\Debug\WpfApplicationTraining_MarkupCompile.lref
+D:\HobbyApp\WpfApplicationTraining\WpfApplicationTraining\obj\Debug\MainWindow.baml
+D:\HobbyApp\WpfApplicationTraining\WpfApplicationTraining\obj\Debug\WpfApplicationTraining.g.resources
+D:\HobbyApp\WpfApplicationTraining\WpfApplicationTraining\obj\Debug\WpfApplicationTraining.Properties.Resources.resources
+D:\HobbyApp\WpfApplicationTraining\WpfApplicationTraining\obj\Debug\WpfApplicationTraining.csproj.GenerateResource.Cache
+D:\HobbyApp\WpfApplicationTraining\WpfApplicationTraining\obj\Debug\WpfApplicationTraining.exe
+D:\HobbyApp\WpfApplicationTraining\WpfApplicationTraining\obj\Debug\WpfApplicationTraining.pdb

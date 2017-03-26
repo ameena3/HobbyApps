@@ -1,0 +1,12 @@
+﻿@model testwebapplication.Models.Restaurant
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@Html.Partial("reviews", @Model.reviews)
+
+<p>
+    @Html.ActionLink("Create New", "Create", new { RestaurantID = Model.ID })
+</p>

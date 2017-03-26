@@ -1,0 +1,141 @@
+﻿Installing assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Installing service AnubhavService...
+Service AnubhavService has been successfully installed.
+Creating EventLog source AnubhavService in log Application...
+Committing assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Uninstalling assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Removing EventLog source AnubhavService.
+Service AnubhavService is being removed from the system...
+Service AnubhavService was successfully removed from the system.
+Installing assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Installing service AnubhavService...
+Service AnubhavService has been successfully installed.
+Creating EventLog source AnubhavService in log Application...
+Committing assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Uninstalling assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Removing EventLog source AnubhavService.
+Service AnubhavService is being removed from the system...
+Service AnubhavService was successfully removed from the system.
+Installing assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Installing service AnubhavService...
+Service AnubhavService has been successfully installed.
+Creating EventLog source AnubhavService in log Application...
+Committing assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Uninstalling assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Removing EventLog source AnubhavService.
+Service AnubhavService is being removed from the system...
+Service AnubhavService was successfully removed from the system.
+Installing assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Installing service AnubhavService...
+Service AnubhavService has been successfully installed.
+Creating EventLog source AnubhavService in log Application...
+Committing assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Uninstalling assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Removing EventLog source AnubhavService.
+Service AnubhavService is being removed from the system...
+Service AnubhavService was successfully removed from the system.
+Installing assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Installing service AnubhavService...
+Service AnubhavService has been successfully installed.
+Creating EventLog source AnubhavService in log Application...
+Committing assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Uninstalling assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Removing EventLog source AnubhavService.
+Service AnubhavService is being removed from the system...
+Service AnubhavService was successfully removed from the system.
+Attempt to stop service AnubhavService.
+Installing assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Installing service AnubhavService...
+Service AnubhavService has been successfully installed.
+Creating EventLog source AnubhavService in log Application...
+Committing assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Uninstalling assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Removing EventLog source AnubhavService.
+Service AnubhavService is being removed from the system...
+Service AnubhavService was successfully removed from the system.
+Attempt to stop service AnubhavService.
+Installing assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+Installing service AnubhavService...
+Service AnubhavService has been successfully installed.
+Creating EventLog source AnubhavService in log Application...
+Committing assembly 'D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.InstallLog
+   assemblypath = D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe

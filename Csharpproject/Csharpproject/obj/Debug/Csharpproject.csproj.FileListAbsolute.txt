@@ -1,0 +1,6 @@
+D:\HobbyApp\Csharpproject\Csharpproject\bin\Debug\Csharpproject.exe.config
+D:\HobbyApp\Csharpproject\Csharpproject\bin\Debug\Csharpproject.exe
+D:\HobbyApp\Csharpproject\Csharpproject\bin\Debug\Csharpproject.pdb
+D:\HobbyApp\Csharpproject\Csharpproject\obj\Debug\Csharpproject.exe
+D:\HobbyApp\Csharpproject\Csharpproject\obj\Debug\Csharpproject.pdb
+D:\HobbyApp\Csharpproject\Csharpproject\obj\Debug\Csharpproject.csprojResolveAssemblyReference.cache

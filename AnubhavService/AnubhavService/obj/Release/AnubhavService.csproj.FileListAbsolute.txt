@@ -1,0 +1,17 @@
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe.config
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.exe
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\AnubhavService.pdb
+D:\HobbyApp\AnubhavService\AnubhavService\obj\Release\AnubhavService.csprojResolveAssemblyReference.cache
+D:\HobbyApp\AnubhavService\AnubhavService\obj\Release\AnubhavService.ProjectInstaller.resources
+D:\HobbyApp\AnubhavService\AnubhavService\obj\Release\AnubhavService.csproj.GenerateResource.Cache
+D:\HobbyApp\AnubhavService\AnubhavService\obj\Release\AnubhavService.exe
+D:\HobbyApp\AnubhavService\AnubhavService\obj\Release\AnubhavService.pdb
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\Microsoft.Owin.Diagnostics.dll
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\Microsoft.Owin.dll
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\Microsoft.Owin.Host.HttpListener.dll
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\Microsoft.Owin.Hosting.dll
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\Owin.dll
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\Microsoft.Owin.xml
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\Microsoft.Owin.Diagnostics.xml
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\Microsoft.Owin.Host.HttpListener.xml
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Release\Microsoft.Owin.Hosting.xml

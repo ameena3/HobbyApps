@@ -1,0 +1,17 @@
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Debug\AnubhavService.exe.config
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Debug\AnubhavService.exe
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Debug\AnubhavService.pdb
+D:\HobbyApp\AnubhavService\AnubhavService\obj\Debug\AnubhavService.csprojResolveAssemblyReference.cache
+D:\HobbyApp\AnubhavService\AnubhavService\obj\Debug\AnubhavService.exe
+D:\HobbyApp\AnubhavService\AnubhavService\obj\Debug\AnubhavService.pdb
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Debug\Microsoft.Owin.Diagnostics.dll
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Debug\Microsoft.Owin.dll
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Debug\Microsoft.Owin.Hosting.dll
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Debug\Owin.dll
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Debug\Microsoft.Owin.xml
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Debug\Microsoft.Owin.Diagnostics.xml
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+D:\HobbyApp\AnubhavService\AnubhavService\bin\Debug\Microsoft.Owin.Hosting.xml
+D:\HobbyApp\AnubhavService\AnubhavService\obj\Debug\AnubhavService.ProjectInstaller.resources
+D:\HobbyApp\AnubhavService\AnubhavService\obj\Debug\AnubhavService.csproj.GenerateResource.Cache

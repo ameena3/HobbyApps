@@ -1,0 +1,22 @@
+mytitle {
+	display : Block;
+	font-size: large;
+	font-family: "Comic Sans MS";
+	color : blue;
+}
+
+address {
+	display : Block;
+	font-size: large;
+	font-family: "Times New Roman MS";
+	color : magenta;
+}
+address:before {content: "Address:  " attr(type)}
+address[type]:after {content: "This is the primary address"}
+
+name {
+	display : Block;
+	font-size: large;
+	font-family: "Calibari";
+	color : grey;
+}
